@@ -4,6 +4,6 @@ output: html_notebook
 ---
 
 ```{r}
-mean(rnorm(1000000,0,1000))
+mean(rnorm(100000,0,1000))
 ```
 
